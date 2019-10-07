@@ -1,0 +1,19 @@
+# Python3 venv:
+*.cfg
+bin/
+include/
+lib/
+lib64
+share/
+
+# Jupyter Notebook:
+.ipynb_checkpoints
+
+# Temporary numpy files:
+*.npy
+
+# Test images:
+*.jpg
+
+# IDE files:
+.idea
